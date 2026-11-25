@@ -20,6 +20,9 @@
 
 <p align="center">
   <a href="https://darkoes.github.io">
+    <img src="https://img.shields.io/badge/%E2%96%B8%20PORTFOLIO-DARKOES.GITHUB.IO-00F0FF?style=for-the-badge&labelColor=0d0d0d" alt="PORTFOLIO" height="38" />
+  </a>
+  <a href="https://darkoes.github.io/terminal/">
     <img src="https://img.shields.io/badge/%5B%20JACK%20IN%20%5D-OPEN%20THE%20TERMINAL%20%E2%96%B8-FCEE0A?style=for-the-badge&labelColor=0d0d0d" alt="JACK IN" height="38" />
   </a>
 </p>
@@ -80,6 +83,8 @@ Agents      █████████████████░░░  88%
 PyTorch     █████████████████░░░  85%
 RAG         █████████████████░░░  85%
 Linux       ████████████████░░░░  80%
+Web / JS    ████████████████░░░░  80%
+Security    ███████████████░░░░░  75%
 TensorFlow  ██████████████░░░░░░  70%
 Docker      ██████████████░░░░░░  70%
 ```
@@ -116,10 +121,21 @@ Never fade away from the source code.
 
 <br>
 
-> The real terminal lives here → **[darkoes.github.io](https://darkoes.github.io)**
+> The real terminal lives here → **[darkoes.github.io/terminal](https://darkoes.github.io/terminal/)**
 > Type `help`. Some commands are not listed. Netrunners find them.
 
 </details>
+
+---
+
+## 🛰️ `> ls ~/builds` — live demos
+
+| | build | what it does | |
+|:-:|---|---|:-:|
+| 🎮 | **[Breach Protocol](https://darkoes.github.io/breach-protocol/)** | Cyberpunk hacking minigame — code matrix, buffer, daemons, trace timer | `web` `cyber` |
+| 🧊 | **[ICE Password Analyzer](https://darkoes.github.io/ice-password-analyzer/)** | Offline password strength: entropy, crack times, attack patterns | `cyber` |
+| 🎣 | **[Phishing URL Scanner](https://darkoes.github.io/phishing-url-scanner/)** | Lookalike domains, homoglyphs, `@` trick, risky TLDs — risk score | `cyber` |
+| 🧠 | **[Neural Net Playground](https://darkoes.github.io/neural-net-playground/)** | Live-training neural net, backprop + Adam from scratch | `ai` `ml` |
 
 ---
 
@@ -134,6 +150,14 @@ Never fade away from the source code.
   <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=FCEE0A" />
   <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCEE0A" />
   <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FCEE0A" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
 </p>
 
 ---
