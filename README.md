@@ -96,8 +96,8 @@ Docker      ██████████████░░░░░░  70%
 
 ```text
 Building neural systems. Debugging reality.
-Turning data into possibilities — models, agents, retrieval,
-and whatever comes after them.
+Building AI that keeps young people safe online —
+turning data into possibilities, not into traps.
 
 Never fade away from the source code.
 ```
@@ -129,6 +129,10 @@ Never fade away from the source code.
 ---
 
 ## 🛰️ `> ls ~/builds` — live demos
+
+> ### ★ [TEƎN](https://www.te3n.life/pl) — `live product`
+> Decoding the digital world for teens, parents and teachers: slang decoder, training for spotting fakes & AI personas, expert support.
+> **[→ te3n.life](https://www.te3n.life/pl)**
 
 | | build | what it does | |
 |:-:|---|---|:-:|
