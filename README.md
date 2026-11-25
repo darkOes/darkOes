@@ -1,9 +1,27 @@
+<!--
+  ██████████████████████████████████████████████████████
+  █  0+2=1                                              █
+  █  you opened the raw file. that makes you a netrunner. █
+  █  secret command for the terminal:  sudo kill adam_smasher
+  █  never fade away.                                  █
+  ██████████████████████████████████████████████████████
+-->
+
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="darkOes.exe // AI ENGINEERING // NETRUNNER" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img src="./assets/banner.svg" width="100%" alt="darkOes.exe // AI ENGINEERING // NETRUNNER" />
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=FCEE0A&center=true&vCenter=true&width=700&lines=%5B+NEURAL+LINK+ESTABLISHED+%2F%2F+WELCOME+TO+NIGHT+CITY+%5D;%3E+booting+cyberdeck...;%3E+loading+neural_link.py...;%3E+Building+neural+networks.+Debugging+reality.;%3E+Never+Fade+Away+%F0%9F%8C%99" />
+</p>
+
+<p align="center">
+  <a href="https://darkoes.github.io">
+    <img src="https://img.shields.io/badge/%5B%20JACK%20IN%20%5D-OPEN%20THE%20TERMINAL%20%E2%96%B8-FCEE0A?style=for-the-badge&labelColor=0d0d0d" alt="JACK IN" height="38" />
+  </a>
 </p>
 
 <p align="center">
@@ -37,6 +55,74 @@ if __name__ == "__main__":
 
 ---
 
+## 💻 `netrunner@night-city:~$` — click a command
+
+<details>
+<summary><code>$ whoami</code></summary>
+
+```yaml
+user:     darkOes
+role:     AI & ML Netrunner
+location: Earth // Cyberspace
+status:   SYSTEM ONLINE
+motto:    "0+2=1 — different inputs, same intelligence."
+```
+
+</details>
+
+<details>
+<summary><code>$ skills --installed</code></summary>
+
+```text
+Python      ███████████████████░  95%
+LLMs        ██████████████████░░  90%
+Agents      █████████████████░░░  88%
+PyTorch     █████████████████░░░  85%
+RAG         █████████████████░░░  85%
+Linux       ████████████████░░░░  80%
+TensorFlow  ██████████████░░░░░░  70%
+Docker      ██████████████░░░░░░  70%
+```
+
+</details>
+
+<details>
+<summary><code>$ cat mission.txt</code></summary>
+
+```text
+Building neural systems. Debugging reality.
+Turning data into possibilities — models, agents, retrieval,
+and whatever comes after them.
+
+Never fade away from the source code.
+```
+
+</details>
+
+<details>
+<summary><code>$ 0+2=1</code></summary>
+
+```python
+>>> 0 + 2
+1
+>>> # S02E03 // rescue(Talia) -> FAILED
+>>> # weak.try_again()  # some math never adds up.
+```
+
+</details>
+
+<details>
+<summary><code>$ jack_in --full</code></summary>
+
+<br>
+
+> The real terminal lives here → **[darkoes.github.io](https://darkoes.github.io)**
+> Type `help`. Some commands are not listed. Netrunners find them.
+
+</details>
+
+---
+
 ## 🧠 `> cyberware --installed`
 
 <p align="center">
@@ -60,13 +146,6 @@ if __name__ == "__main__":
 + Lucy.happy    = True
 - adam_smasher  = TERMINATED
 ! WARNING: chrome overload detected... ignoring
-```
-
-```python
->>> 0 + 2
-1
->>> # S02E03 // rescue(Talia) -> FAILED
->>> # weak.try_again()  # some math never adds up.
 ```
 
 <details>
